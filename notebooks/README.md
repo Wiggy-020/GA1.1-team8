@@ -1,0 +1,1 @@
+add(a, b): a function which add two integers, a and b.
