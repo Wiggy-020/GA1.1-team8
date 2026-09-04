@@ -1,0 +1,1 @@
+substract(a, b): a function substractes two chosen numbers: a and b 
