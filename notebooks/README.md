@@ -1,3 +1,4 @@
 substract(a, b): a function substractes two chosen numbers: a and b 
 add(a, b): a function which add two integers, a and b.
-defined adn added the multiply function
+defined and added the multiply function
+defined and added the distance from 0 function
