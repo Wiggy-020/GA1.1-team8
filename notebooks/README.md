@@ -4,3 +4,4 @@ defined and added the multiply function
 defined and added the distance from 0 function
 we defined a new square function and used our previous multiply function
 defined the sum list function which sums a list of values
+new line added for the bonues assignemet i guess
